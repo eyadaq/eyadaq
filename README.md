@@ -12,8 +12,7 @@
 
 ### 🌱 Currently learning
 - Advanced **C programming**
-- CPP **OOP**
-- Modern **JavaScript** frameworks & concepts  
+- CPP **OOP**  
 
 ---
 
