@@ -6,7 +6,7 @@
 
 ### 🔭 What I'm working on
 - Crushing **42 Core Projects** one step at a time  
-- Leveling up my skills in **C** & **JavaScript**
+- Leveling up my skills in **C** , **CPP** & **JAVA**
 
 ---
 
