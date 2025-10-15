@@ -29,10 +29,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyadaq&theme=radical" alt="Eyad's GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadaq&layout=compact&theme=radical" alt="Eyad's Top Languages" />
 </p>
 
